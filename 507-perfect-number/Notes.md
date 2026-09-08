@@ -1,1 +1,1 @@
-<h2>perfect-number Notes</h2><hr>[ Time taken: 2hrs 3m 28s ]
+<h2>perfect-number Notes</h2><hr>[ Time taken: 2hrs 5m 51s ]
